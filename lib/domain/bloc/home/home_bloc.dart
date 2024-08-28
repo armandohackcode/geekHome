@@ -37,7 +37,6 @@ class HomeBloc extends Bloc<HomeEvent, HomeLoaded> {
       LoadComicsMore event, Emitter<HomeLoaded> emit) async {
     emit(state.copyWith(loadingMore: true, errorMs: null));
     try {
-      print("=======Ejecutado=========");
       if (isLoading) return;
       isLoading = true;
 

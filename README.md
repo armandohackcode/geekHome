@@ -24,6 +24,7 @@ La aplicación es un ejemplo de cómo implementar una **arquitectura limpia** en
 Para ejecutar esta aplicación en tu entorno local, sigue estos pasos:
 
 0. Instala Flutter [Documentación](https://docs.flutter.dev/)
+ versión utilizada al momento del desarrollo del proyecto `Flutter 3.22.2 `
 1. Clona este repositorio.
 2. Instala las dependencias usando `flutter pub get`.
 3. Obten una `api_key` de Comic Vine par poder usar la API
