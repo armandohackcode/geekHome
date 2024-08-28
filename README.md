@@ -27,7 +27,7 @@ Para ejecutar esta aplicación en tu entorno local, sigue estos pasos:
 1. Clona este repositorio.
 2. Instala las dependencias usando `flutter pub get`.
 3. Obten una `api_key` de Comic Vine par poder usar la API
-4. Realiza una copia del archivo `/lib/api/api_config_example.dart` y remplaza los valores de `api_key`.
+4. Realiza una copia del archivo `/lib/api/api_config_example.dart` y renombra como `api_config.dart`,remplaza los valores de `api_key`.
 5. Ejecuta la aplicación en tu dispositivo o emulador usando `flutter run`.
 
 
